@@ -8,8 +8,7 @@ This project is a Python-based clone of the classic arcade game "Space Invaders"
   4. Collectible items including coins and health boosts.
   5. Explosive visual effects for player and enemy destruction.
   6. Adjustable difficulty settings based on player performance.
-  7. Getting Started
-  8. Prerequisites
+# Prerequisites
   9. Ensure you have Python installed on your system. The game requires Python 3.x and the following libraries:
 
 Pygame
@@ -30,16 +29,6 @@ Use the arrow keys (←, ↑, →, ↓) to move the spaceship.
 Press Space to shoot bullets.
 Collect coins and health items to improve your score and sustain health.
 Avoid enemy attacks and defend against the invaders to survive as long as possible.
-Contributing
-Contributions to enhance the game or fix issues are welcome. Please follow these steps to contribute:
-
-Fork the repository.
-Create your feature branch (git checkout -b feature/AmazingFeature).
-Commit your changes (git commit -m 'Add some AmazingFeature').
-Push to the branch (git push origin feature/AmazingFeature).
-Open a pull request.
-License
-Distributed under the MIT License. See LICENSE for more information.
 
 Acknowledgments
 Pygame Documentation
