@@ -1,4 +1,4 @@
-# Space Invaders Clone
+# Space Invaders
 This project is a Python-based clone of the classic arcade game "Space Invaders". Utilizing the Pygame library, the game features a player-controlled spaceship tasked with defending against waves of enemy invaders. Players can move the spaceship in all directions and shoot bullets to destroy enemies. The game incorporates additional elements such as enemy movements, player health, and collectible items to enhance the gameplay experience.
 
 # Features
@@ -17,7 +17,7 @@ You can install the necessary libraries using pip:
   1. pip install pygame numpy
 Installation:
   Clone the repository to your local machine:
-  2. git clone https://github.com/yourusername/space-invaders-clone.git
+  2. https://github.com/hristov111/blast_game.git
 
 Navigate to the project directory:
   3. cd space-invaders-clone
