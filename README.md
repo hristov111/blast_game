@@ -20,7 +20,7 @@ Installation:
   2. https://github.com/hristov111/blast_game.git
 
 Navigate to the project directory:
-  3. cd space-invaders-clone
+  3. cd blast_game
 Run the game:
   4. python main.py
 
